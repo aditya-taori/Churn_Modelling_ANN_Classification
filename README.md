@@ -11,13 +11,17 @@ No coding skills are required to try the demo — just install the listed requir
 pip install -r requirements.txt
 ```
 
-2. Start the application:
+2. Start the application locally:
 
 ```bash
 streamlit run app.py
 ```
 
 3. A browser window will open (or visit http://localhost:8501). Enter simple customer details like Geography, Gender, Age, Balance, Credit Score, and the app will show whether the customer is likely to churn.
+
+4. Alternatively, try the hosted live demo (no install required):
+
+https://churnmodellingannclassification-dsdaxl5d4p33unux5j2kcz.streamlit.app/
 
 ## What the app does (plain language)
 - You fill a short form with basic customer information (age, location, gender, balance, etc.).
