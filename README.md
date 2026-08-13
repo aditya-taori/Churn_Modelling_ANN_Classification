@@ -1,5 +1,7 @@
 # Customer Churn Prediction — Simple Demo
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-blue)](https://churnmodellingannclassification-dsdaxl5d4p33unux5j2kcz.streamlit.app/)  https://churnmodellingannclassification-dsdaxl5d4p33unux5j2kcz.streamlit.app/
+
 This project is a small, user-friendly demo that predicts whether a bank customer is likely to stop using the service ("churn"). It includes a ready-to-run web app you can open in your browser and use by entering a few customer details.
 
 No coding skills are required to try the demo — just install the listed requirements and run the app.
